@@ -1,0 +1,1 @@
+In this exercise, we use classes and ids to style some itens, besides that we also use multiple classes in a same item that share characteristics with others but have its owns.
