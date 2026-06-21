@@ -1,0 +1,1 @@
+Practiced using the three types of css (internal,inline and external) and some of the most commum styles (background-color, font-size, color, etc.)
