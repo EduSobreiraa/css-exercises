@@ -1,0 +1,1 @@
+In this exercise, we practise using padding and margin to organize itens. Also, we learned how to use "auto" to push itens to a side.
