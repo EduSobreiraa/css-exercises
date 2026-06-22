@@ -1,1 +1,1 @@
-In this exercise, we practise using padding and margin to organize itens. Also, we learned how to use "auto" to push itens to a side.
+In this exercise, we practiced using padding and margin to organize items. Also, we learned how to use 'auto' to push items to a side.
