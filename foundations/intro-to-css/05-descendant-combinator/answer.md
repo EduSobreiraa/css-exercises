@@ -1,0 +1,1 @@
+In this exercise, we learn how parent and child elements work and how we can style elements that, besides having the same classes as others, are children of specific parent elements and, because of that, can be distinguished."
