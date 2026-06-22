@@ -1,0 +1,1 @@
+In this exercise, we practised using the cascade to organize and style the elements in CSS.
