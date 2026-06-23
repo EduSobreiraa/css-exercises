@@ -1,0 +1,1 @@
+"I had some trouble with this exercise. Apart from TOR, I'd never seen anything about justify-content: space-between. Also, the timing was bad because I had just woken up :p. Even though front-end feels a bit weak right now due to AI, I should probably still learn the basics :p."
