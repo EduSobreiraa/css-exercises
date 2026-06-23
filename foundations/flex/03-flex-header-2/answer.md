@@ -1,0 +1,1 @@
+After completing the last exercise, this one was much easier and simpler to do. Basically, we are nesting flexboxes inside each other to arrange elements within the same header. We also used padding and margins to give the elements some breathing room.
