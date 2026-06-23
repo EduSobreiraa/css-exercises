@@ -1,0 +1,1 @@
+In this exercise, we use flexbox to center a div. This activity demonstrates how to style items inside a container using flexbox
